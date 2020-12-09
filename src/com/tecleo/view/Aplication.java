@@ -2,7 +2,7 @@ package com.tecleo.view;
 
 import com.tecleo.controller.Posicao;
 
-public class Tabuleiro {
+public class Aplication {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
